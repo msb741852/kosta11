@@ -1,7 +1,4 @@
 aaaaa
 bbbbb
-<<<<<<< HEAD
 ddddd
-=======
 ccccc
->>>>>>> hotfix
